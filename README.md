@@ -2,17 +2,17 @@
 Android Lock Pattern Crack originally made for CTF
 
 
-Installation:
+## Installation:
 ```shell
 $ git clone https://github.com/clemg/CTFALC
 ```
 
-Usage:
+## Usage:
 ```shell
 $ python3 CTFALC.py ./gesture.key.sample 
 ```
 
-Example output:
+## Example output:
 ```shell
 [i] Looking for key b21e9299bc501c403717d4c950954468a496c1ef... 
 
