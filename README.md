@@ -1,5 +1,5 @@
 # CTFALC
-Android Lock Pattern Crack originally made for CTF
+Android Lock Pattern Crack originally made for a CTF
 
 
 ## Installation:
